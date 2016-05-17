@@ -1,0 +1,9 @@
+c:\users\superpillin\documents\visual studio 2012\Projects\Juego_Vida\Juego_Vida\bin\Debug\Juego_Vida.exe.config
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\obj\Debug\Juego_Vida.csprojResolveAssemblyReference.cache
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\obj\Debug\Juego_Vida.Properties.Resources.resources
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\obj\Debug\Juego_Vida.csproj.GenerateResource.Cache
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\bin\Debug\Juego_Vida.exe
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\bin\Debug\Juego_Vida.pdb
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\obj\Debug\Juego_Vida.exe
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\obj\Debug\Juego_Vida.pdb
+C:\Users\SUPERPILLIN\Documents\Visual Studio 2012\Projects\Juego_Vida\Juego_Vida\obj\Debug\Juego_Vida.Juego_Vida.resources
